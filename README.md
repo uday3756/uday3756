@@ -1,90 +1,70 @@
 <h1 align="center">Hi 👋, I'm Uday Hiremath</h1>
-<h3 align="center">🚀 A passionate full-stack developer & automation engineer from India 🇮🇳</h3>
+<h3 align="center">A passionate full-stack & automation developer from India</h3>
+
+- 🔭 I’m currently working on **QuantaForge AI**  
+  🔗 [https://quanta-forge.vercel.app](https://quanta-forge.vercel.app)
+
+- 👯 I’m looking to collaborate on **Village Tourism Web App**  
+  🔗 [https://udayhiiremath.netlify.app](https://udayhiiremath.netlify.app)
+
+- 🤝 I’m looking for help with **ADAS + AI Real-Time Projects**  
+  🧠 Interests: ROS, sensor fusion, ADAS & n8n automation
+
+- 🌱 I’m currently learning **React, Firebase, and Gen AI image processing**
+
+- 💬 Ask me about **n8n, ROS, OpenAI APIs, or Frontend Automation**
+
+- 📫 How to reach me: **udayhiremath46@gmail.com**
+
+- 👨‍💻 All of my projects are available at:  
+  🔗 [https://udayhiiremath.netlify.app](https://udayhiiremath.netlify.app)
+
+- 📝 I regularly write articles on AI tools & workflow automation  
+  🔗 [Coming Soon on Hashnode](https://hashnode.com/@udayhiremath)
+
+- 📄 Know about my experiences:  
+  🔗 [View Resume](https://udayhiiremath.netlify.app/resume)
+
+- ⚡ Fun fact: I think I'm funny and love building AI agents that solve real-life problems 😄
+
+---
+
+### 🛠️ Skills
+
+#### 💻 Programming Languages
+`Python` `C++` `JavaScript` `HTML` `CSS`
+
+#### 🌐 Frontend Development
+`React` `TailwindCSS` `Bootstrap` `HTML5` `CSS3`
+
+#### 🧠 AI / ML
+`OpenAI API` `n8n Workflows` `Gen AI` `Sensor Fusion`
+
+#### 🧰 Tools & IDEs
+`n8n` `VS Code` `ROS` `Notepad++`
+
+---
+
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://lottie.host/11225ec0-e9ef-48f7-9804-cfbdc3209ee4/dC1PyDbuEd.json" alt="Animated Banner" width="600" />
+  <img src="https://github-readme-stats.vercel.app/api?username=uday3756&show_icons=true&theme=radical" alt="uday3756" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uday3756&theme=radical" alt="uday3756" />
 </p>
 
 ---
 
-### 🔥 About Me
+### 🔗 Connect with me:
 
-#### 🧠 Projects I'm Working On:
-- **QuantaForge AI Tools** – [quanta-forge.vercel.app](https://quanta-forge.vercel.app)
-- **Village Tourism Web App** – [udayhiiremath.netlify.app](https://udayhiiremath.netlify.app)
-- **Agricultural Web App** – [Demo](https://your-deployment-link.com)
-- **ADAS + AI Real-Time Agents** – Research-stage
-- **Vastra** –[(https://lovable.dev/projects/30846ba7-622f-4554-bbac-609456bcfb17)]
-
-#### 🚀 Currently Learning:
-`React` `Firebase` `AI Image Processing` `n8n`
-
-#### 💬 Ask Me About:
-`React` `n8n` `LangChain` `Automation Workflows` `ROS``comsol``matlab`
-
-#### 📫 Contact Me:
-- **Email:** udayhiremath46@gmail.com
-- **Portfolio:** [udayhiiremath.netlify.app](https://udayhiiremath.netlify.app)
-- **Resume:** [View PDF](https://udayhiiremath.netlify.app/resume)
-
-#### ⚡ Fun fact:
-I love debugging automation like solving a mystery 🕵️‍♂️
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/uday-hiremath-42637b31a)](https://linkedin.com/in/uday-hiremath-42637b31a)
+[![GitHub](https://img.shields.io/badge/GitHub-uday3756-black?style=flat-square&logo=github)](https://github.com/uday3756)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=flat-square)](https://udayhiiremath.netlify.app)
+[![Email](https://img.shields.io/badge/Gmail-Contact-red?style=flat-square&logo=gmail&logoColor=white)](mailto:udayhiremath46@gmail.com)
 
 ---
 
-### 🛠️ Languages & Tools
+### ☕ Support
 
-**💻 Programming:** `Python` `JavaScript` `C++` `HTML` `CSS`
+If you like my work, consider supporting me:
 
-**🌐 Frontend:** `React` `Tailwind` `Bootstrap` `HTML5` `CSS3`
-
-**🤖 Automation & AI:** `n8n` `OpenAI API` `LangChain` `ROS` `Tensorflow`
-
-**🗄️ Backend & DB:** `Firebase` `Node.js` `Express.js`
-
-**🎨 Design & Tools:** `Figma` `VS Code` `Postman` `Photoshop``comsol``matlab`
-
----
-
-### 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=uday3756&theme=dracula&margin-w=15" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uday3756&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=uday3756&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uday3756&layout=compact&theme=radical" />
-</p>
-
----
-
-### 🔗 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/uday-hiremath-42637b31a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:udayhiremath46@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://github.com/uday3756" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" /></a>
-  <a href="https://udayhiiremath.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Website-brightgreen?style=for-the-badge" /></a>
-</p>
-
----
-
-### 💰 Support My Work
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/udayhiremath"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FDD231?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
-  <br />If you find my work helpful, consider supporting me 💛
-</p>
-
----
-
-<p align="center">
-  Made with ❤️ in India 🇮🇳<br/>
-  <img src="https://media.giphy.com/media/xUPGcl3ijl0GGJ6gjm/giphy.gif" width="50" />
-</p>
+- Buy Me a Coffee: _Coming soon_
