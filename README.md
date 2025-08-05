@@ -61,4 +61,40 @@ I love turning real-life problems into smart automation – and I think I’m fu
 ### 💼 Top Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icon
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,tailwind,python,cpp,html,css,firebase,n8n,nodejs,matlab" />
+</p>
+
+---
+
+### 📰 Latest Blog Posts  
+<!-- BLOG-POST-LIST:START -->  
+<!-- BLOG-POST-LIST:END -->
+
+> 🔁 To enable the dynamic blog section, set up [GitHub Actions Blog Workflow](https://github.com/gautamkrishnar/blog-post-workflow)
+
+---
+
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/uday-hiremath-42637b31a)  
+[![GitHub](https://img.shields.io/badge/GitHub-uday3756-black?style=for-the-badge&logo=github)](https://github.com/uday3756)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge)](https://udayhiiremath.netlify.app)  
+[![Email](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:udayhiremath46@gmail.com)
+
+---
+
+### ☕ Support My Work
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/uday">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FDD231?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  Made with ❤️ in India 🇮🇳  
+  <br/><br/>
+  <img src="https://media.giphy.com/media/xUPGcl3ijl0GGJ6gjm/giphy.gif" width="50" />
+</p>
