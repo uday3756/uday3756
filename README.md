@@ -1,70 +1,64 @@
-<h1 align="center">Hi 👋, I'm Uday Hiremath</h1>
-<h3 align="center">A passionate full-stack & automation developer from India</h3>
-
-- 🔭 I’m currently working on **QuantaForge AI**  
-  🔗 [https://quanta-forge.vercel.app](https://quanta-forge.vercel.app)
-
-- 👯 I’m looking to collaborate on **Village Tourism Web App**  
-  🔗 [https://udayhiiremath.netlify.app](https://udayhiiremath.netlify.app)
-
-- 🤝 I’m looking for help with **ADAS + AI Real-Time Projects**  
-  🧠 Interests: ROS, sensor fusion, ADAS & n8n automation
-
-- 🌱 I’m currently learning **React, Firebase, and Gen AI image processing**
-
-- 💬 Ask me about **n8n, ROS, OpenAI APIs, or Frontend Automation**
-
-- 📫 How to reach me: **udayhiremath46@gmail.com**
-
-- 👨‍💻 All of my projects are available at:  
-  🔗 [https://udayhiiremath.netlify.app](https://udayhiiremath.netlify.app)
-
-- 📝 I regularly write articles on AI tools & workflow automation  
-  🔗 [Coming Soon on Hashnode](https://hashnode.com/@udayhiremath)
-
-- 📄 Know about my experiences:  
-  🔗 [View Resume](https://udayhiiremath.netlify.app/resume)
-
-- ⚡ Fun fact: I think I'm funny and love building AI agents that solve real-life problems 😄
-
----
-
-### 🛠️ Skills
-
-#### 💻 Programming Languages
-`Python` `C++` `JavaScript` `HTML` `CSS`
-
-#### 🌐 Frontend Development
-`React` `TailwindCSS` `Bootstrap` `HTML5` `CSS3`
-
-#### 🧠 AI / ML
-`OpenAI API` `n8n Workflows` `Gen AI` `Sensor Fusion`
-
-#### 🧰 Tools & IDEs
-`n8n` `VS Code` `ROS` `Notepad++`
-
----
-
-### 📈 GitHub Stats
+<h1 align="center">Hi 👋, I'm Uday</h1>
+<h3 align="center">Focused on building seamless digital experiences and automation systems that drive impact</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uday3756&show_icons=true&theme=radical" alt="uday3756" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uday3756&theme=radical" alt="uday3756" />
+  <img src="https://komarev.com/ghpvc/?username=uday3756&label=Profile%20views&color=0e75b6&style=flat" alt="uday3756" />
 </p>
 
 ---
 
-### 🔗 Connect with me:
+### 🔭 I’m currently working on  
+**QuantaForge AI** – [quanta-forge.vercel.app](https://quanta-forge.vercel.app)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/uday-hiremath-42637b31a)](https://linkedin.com/in/uday-hiremath-42637b31a)
-[![GitHub](https://img.shields.io/badge/GitHub-uday3756-black?style=flat-square&logo=github)](https://github.com/uday3756)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=flat-square)](https://udayhiiremath.netlify.app)
-[![Email](https://img.shields.io/badge/Gmail-Contact-red?style=flat-square&logo=gmail&logoColor=white)](mailto:udayhiremath46@gmail.com)
+### 👯 I’m looking to collaborate on  
+**Village Tourism & Rural AI Projects** – [udayhiiremath.netlify.app](https://udayhiiremath.netlify.app)
+
+### 🤝 I’m looking for help with  
+**ADAS + AI Real-Time Agents** – *(Project link coming soon)*
+
+### 🌱 I’m currently learning  
+`React` • `Firebase` • `n8n` • `AI Image Processing` • `ROS` • `COMSOL` • `MATLAB`
+
+### 💬 Ask me about  
+`React`, `Automation with n8n`, `LangChain`, `OpenAI`, `GSAP`, `Vue`
+
+### 📫 How to reach me  
+📧 udayhiremath46@gmail.com  
+📧 01fe22bec036@kletech.ac.in
+
+### 👨‍💻 All of my projects are available at  
+🌐 [udayhiiremath.netlify.app](https://udayhiiremath.netlify.app)
+
+### 📝 I regularly write articles on  
+📝 [hashnode.com/@udayhiremath](https://hashnode.com/@udayhiremath) *(Coming Soon)*
+
+### 📄 Know about my experiences  
+📄 [Resume PDF](https://udayhiiremath.netlify.app/resume)
+
+### ⚡ Fun fact  
+I love turning real-life problems into smart automation – and I think I’m funny too 😄
 
 ---
 
-### ☕ Support
+### 🏆 GitHub Trophies
 
-If you like my work, consider supporting me:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=uday3756&theme=algolia" />
+</p>
 
-- Buy Me a Coffee: _Coming soon_
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=uday3756&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uday3756&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uday3756&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 💼 Top Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icon
